@@ -1,0 +1,63 @@
+[
+    {
+      "instruction": "Write a function in Python to calculate the factorial of a number.",
+      "input": "5",
+      "output": "120"
+    },
+    {
+      "instruction": "Code the fibonacci series in Python using recursion.",
+      "input": "7",
+      "output": "[0, 1, 1, 2, 3, 5, 8]"
+    },
+    {
+      "instruction": "Generate a Python function to reverse a string.",
+      "input": "'hello'",
+      "output": "'olleh'"
+    },
+    {
+      "instruction": "Create a Python function to check if a number is prime.",
+      "input": "11",
+      "output": "True"
+    },
+    {
+      "instruction": "Write a Python function to convert Celsius to Fahrenheit.",
+      "input": "100",
+      "output": "212"
+    },
+    {
+      "instruction": "Develop a Python code snippet to merge two dictionaries.",
+      "input": "{'a': 1, 'b': 2}, {'c': 3, 'd': 4}",
+      "output": "{'a': 1, 'b': 2, 'c': 3, 'd': 4}"
+    },
+    {
+      "instruction": "Write a Python program to remove duplicates from a list.",
+      "input": "[1, 2, 2, 3, 4, 4, 5]",
+      "output": "[1, 2, 3, 4, 5]"
+    },
+    {
+      "instruction": "Code a Python function to count the number of vowels in a string.",
+      "input": "'hello world'",
+      "output": "3"
+    },
+    {
+      "instruction": "Implement a Python function to find the minimum value in a list.",
+      "input": "[5, 1, 4, 2, 3]",
+      "output": "1"
+    },
+    {
+      "instruction": "Generate a Python function to calculate the length of a string without using built-in functions.",
+      "input": "'sample'",
+      "output": "6"
+    },
+    {
+      "instruction": "Create a Python script to sort a list of dictionaries by a specific key.",
+      "input": "[{'name': 'John', 'age': 45}, {'name': 'Diana', 'age': 32}, {'name': 'Mike', 'age': 40}], 'age'",
+      "output": "[{'name': 'Diana', 'age': 32}, {'name': 'Mike', 'age': 40}, {'name': 'John', 'age': 45}]"
+    },
+    {
+      "instruction": "Write a Python function that multiplies all the items in a list.",
+      "input": "[1, 2, 3, 4]",
+      "output": "24"
+    }
+]
+  
