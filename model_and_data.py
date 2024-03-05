@@ -4,7 +4,7 @@ from datasets import load_dataset, DatasetDict
 from huggingface_hub import notebook_login
 
 
-def load_model(model_id="google/gemma-7b-it"):
+def load_model(model_id="google/gemma-2b-it"):
     """
     Load the Gemma model with QLoRA quantization.
 

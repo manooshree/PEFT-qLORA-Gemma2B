@@ -36,7 +36,7 @@ def setup_training(model, tokenizer, train_dataset, test_dataset):
     return trainer
 
 def fine_tune_model():
-    model_id = "google/gemma-7b-it"
+    model_id = "google/gemma-2b-it"
     model, tokenizer = load_model(model_id)
     dataset = prepare_dataset()
     train_dataset = dataset['train']
